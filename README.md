@@ -1,1 +1,2 @@
 # Home-Work-1-Refactoring-Code
+ In this assignment we were given HTML and CSS files that did not follow accesiblity standards. We were asked to modify the code to meet accesibility standards. To achive this I added symantic HTML tags in place of div tags, added alt atributes to images with descriptions of the images, added a descriptive title, and added notes describing each section. I also condensed the css code in order reduce redundancies. 
